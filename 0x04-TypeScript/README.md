@@ -1,1 +1,3 @@
-### 0x04. Typescript
+0x04. Typescript
+
+Introduction to Typescript
