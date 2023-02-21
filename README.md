@@ -1,2 +1,2 @@
 # alx-backend-javascript
-Alx-School Backend With JavaScript Assigments
+Alx-School Backend With JavaScript Tasks
